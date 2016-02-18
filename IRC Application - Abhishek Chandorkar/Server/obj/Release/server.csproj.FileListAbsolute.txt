@@ -1,0 +1,16 @@
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\bin\Release\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\bin\Release\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Release\ResolveAssemblyReference.cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Release\Server.serverForm.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Release\Server.Properties.Resources.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Release\server.csproj.GenerateResource.Cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Release\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Release\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\bin\Release\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\bin\Release\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Release\ResolveAssemblyReference.cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Release\Server.serverForm.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Release\Server.Properties.Resources.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Release\server.csproj.GenerateResource.Cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Release\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Release\Server.pdb

@@ -1,0 +1,20 @@
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\bin\Debug\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\bin\Debug\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Debug\ResolveAssemblyReference.cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Debug\Server.serverForm.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Debug\Server.Properties.Resources.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Debug\server.csproj.GenerateResource.Cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Debug\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\SGSServerTCP\obj\Debug\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Debug\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Debug\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\bin\Debug\Server.exe
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\bin\Debug\Server.pdb
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Debug\Server.serverForm.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Debug\Server.Properties.Resources.resources
+D:\PSU\Internetworking Protocols\Project\Thanay Code\Server\obj\Debug\server.csproj.GenerateResource.Cache
+D:\PSU\Internetworking Protocols\Project\Final Project\Server\obj\Debug\Server.exe
+D:\PSU\Internetworking Protocols\Project\Final Project\Server\obj\Debug\Server.pdb
+D:\PSU\Internetworking Protocols\Project\IRC Application - Abhishek Chandorkar\Server\obj\Debug\Server.exe
+D:\PSU\Internetworking Protocols\Project\IRC Application - Abhishek Chandorkar\Server\obj\Debug\Server.pdb
